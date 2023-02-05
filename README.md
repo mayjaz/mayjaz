@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Freelance jobs**
 
-- 👨‍💻 All of my projects are available at [mayjz.tech](mayjz.tech)
-
 - 📝 I regularly write articles on [mayjz.tech](mayjz.tech)
 
 - 📫 How to reach me **msipajames08@gmail.com**
