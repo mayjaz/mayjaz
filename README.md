@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A frontend developer from Zimbabwe, Currently studying computer science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayjaz&label=Profile%20views&color=0e75b6&style=flat" alt="mayjaz" /> </p>
-
 - 🔭 I’m currently working on [Joina Jamz Radio](joinajamzradio.live)
 
 - 🌱 I’m currently learning **App Development with Flutter**
