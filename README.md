@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Freelance jobs**
 
-- 📝 I regularly write articles on [mayjz.tech](mayjz.tech)
-
 - 📫 How to reach me **msipajames08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
