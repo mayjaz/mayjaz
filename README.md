@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A frontend developer from Zimbabwe, Currently studying computer science.</h3>
 
-- 🔭 I’m currently working on [Joina Jamz Radio](joinajamzradio.live)
+- 🔭 I’m currently working on [TRAPKIT](trapkit.shop)
 
 - 🌱 I’m currently learning **App Development with Flutter**
 
